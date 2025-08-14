@@ -1,6 +1,6 @@
 # Sample Rowan API Environment
 
-[![License](https://img.shields.io/github/license/rowansci/sample)](https://github.com/rowansci/rowan-sample-env/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/rowansci/rowan-sample-env)](https://github.com/rowansci/rowan-sample-env/blob/master/LICENSE)
 [![Powered by: Pixi](https://img.shields.io/badge/Powered_by-Pixi-facc15)](https://pixi.sh)
 [![Code style: ruff](https://img.shields.io/badge/code%20style-ruff-000000.svg)](https://github.com/astral-sh/ruff)
 
